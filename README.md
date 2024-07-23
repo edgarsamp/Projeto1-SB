@@ -57,6 +57,6 @@ Ou, caso o arquivo não precise de ligação:
 ```bash
 .\simulador arquivo.obj
 ```
-
-gcc version 6.3.0 (MinGW.org GCC-6.3.0-1) 
+#### Versão do GCC e SO
+Este projeto foi desenvolvido utilizando a versão do GCC: `gcc version 6.3.0 (MinGW.org GCC-6.3.0-1)` e testado em dois computadores com Windows 10.
 
