@@ -155,7 +155,6 @@ vector<int> liga(Modulo mod1, Modulo mod2){
     }
 
 
-
     // Aplica o fator de correcao no enderecos relativos
     for (unsigned int i = 0; i < mod1.real_bits.size(); i++){
         char vlr = mod1.real_bits[i];

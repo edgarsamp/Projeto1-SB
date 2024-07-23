@@ -8,7 +8,6 @@ int main(int argc, char* argv[]) {
         cout << "Numero incorreto de argumentos. Use: ./ligador arquivo1 arquivo2" << endl;
         return 1;
     }
-
     
     string path1 = argv[1]; 
     string path2 = argv[2]; 
